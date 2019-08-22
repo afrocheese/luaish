@@ -2,7 +2,7 @@ package lua
 
 import (
 	"fmt"
-	"github.com/lunixbochs/luaish/parse"
+	"github.com/afrocheese/luaish/parse"
 	"golang.org/x/net/context"
 	"io"
 	"math"

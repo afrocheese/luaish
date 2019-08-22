@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	"github.com/lunixbochs/luaish"
-	"github.com/lunixbochs/luaish/parse"
+	"github.com/afrocheese/luaish"
+	"github.com/afrocheese/luaish/parse"
 	"os"
 	"runtime/pprof"
 )

@@ -5,7 +5,7 @@ import __yyfmt__ "fmt"
 
 //line parser.go.y:2
 import (
-	"github.com/lunixbochs/luaish/ast"
+	"github.com/afrocheese/luaish/ast"
 )
 
 //line parser.go.y:37

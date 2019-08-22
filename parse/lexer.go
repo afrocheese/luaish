@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"bytes"
 	"fmt"
-	"github.com/lunixbochs/luaish/ast"
+	"github.com/afrocheese/luaish/ast"
 	"io"
 	"reflect"
 	"strconv"

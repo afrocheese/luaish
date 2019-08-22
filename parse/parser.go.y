@@ -2,7 +2,7 @@
 package parse
 
 import (
-  "github.com/lunixbochs/luaish/ast"
+  "github.com/afrocheese/luaish/ast"
 )
 %}
 %type<stmts> chunk

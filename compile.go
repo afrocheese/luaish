@@ -2,7 +2,7 @@ package lua
 
 import (
 	"fmt"
-	"github.com/lunixbochs/luaish/ast"
+	"github.com/afrocheese/luaish/ast"
 	"reflect"
 )
 
