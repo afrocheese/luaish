@@ -8,7 +8,7 @@ import (
 
 /* internal constants & structs  {{{ */
 
-const maxRegisters = 200
+const maxRegisters = 1000
 
 type expContextType int
 
